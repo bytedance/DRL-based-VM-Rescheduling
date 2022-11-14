@@ -1,0 +1,17 @@
+{
+    "name": "vm_candidates_shuffled_extra.pkl",
+    "target_save_name": "vm_candidates_shuffled_extra",
+    "raw_data_path": "./data/raw_data/vm/",
+    "val_portion": 0.1,
+    "test_portion": 0.1,
+    "num_vm": 2089,
+    "num_pm": 279,
+    "pm_cov": 8,
+    "vm_cov": 14,
+    "eval_freq": 1,
+    "plot_freq": 1,
+    "plot_start": 0,
+    "quantiles": [0.5, 0.1, 0.9],
+    "missing_value": -100,
+    "output_categorical": false
+}
