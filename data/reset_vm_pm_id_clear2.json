@@ -3339,29 +3339,6 @@
                     "rack_id": 5
                 },
                 {
-                    "node_id": "host-3tesane3oq4e8i4mv6h8",
-                    "status": "DISABLED",
-                    "node_cpu": 88,
-                    "node_mem_mb": 368776.0,
-                    "numa": [
-                        {
-                            "node": 0,
-                            "total_cpu": 44,
-                            "free_cpu": 44,
-                            "memory_huge_total_mb": 184388.0,
-                            "memory_huge_free_mb": 184388.0
-                        },
-                        {
-                            "node": 1,
-                            "total_cpu": 44,
-                            "free_cpu": 44,
-                            "memory_huge_total_mb": 184388.0,
-                            "memory_huge_free_mb": 184388.0
-                        }
-                    ],
-                    "rack_id": 3
-                },
-                {
                     "node_id": "pm_145",
                     "status": "ACTIVE",
                     "node_cpu": 88,
